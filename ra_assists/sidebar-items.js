@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["ast_transform","`AstTransformer`s are functions that replace nodes in an AST and can be easily combined."],["utils","Assorted functions shared by several assists."]],"struct":[["Assist",""],["AssistConfig",""],["AssistId","Unique identifier of the assist, should not be shown to the user directly."],["GroupLabel",""],["ResolvedAssist",""]]});

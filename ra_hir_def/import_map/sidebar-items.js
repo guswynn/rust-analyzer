@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ImportMap","A map from publicly exported items to the path needed to import/name them from a downstream crate."]]});

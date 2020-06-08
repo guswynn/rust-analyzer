@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["from_json",""],["main_loop",""],["server_capabilities",""],["show_message",""]],"mod":[["cli","Various batch processing tasks, intended primarily for debugging."],["config","Config used by the language server."],["lsp_ext","rust-analyzer extensions to the LSP."]],"struct":[["LspError",""]],"type":[["Result",""]]});
